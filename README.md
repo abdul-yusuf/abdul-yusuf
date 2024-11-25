@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a passionate software developer deeply fascinated by technology and constantly seeking opportunities to learn and grow in the ever-evolving field of software development.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎓 I'm currently in my final year of Bachelor's of Engineering degree in Computer Engineering, where I'm gaining a solid foundation in programming principles, algorithms, and computer engineering concepts. My academic journey has sparked my enthusiasm for problem-solving and ignited my passion for coding.
+🎓 I'm Graduate Computer Engineering, with a solid foundation in programming principles, algorithms, and computer engineering concepts. My academic journey has sparked my enthusiasm for problem-solving and ignited my passion for coding.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [abdul17yusuf@gmail.com](mailto:abdul17yusuf@gmail.com)
-* 🧠  I'm learning more stacks
+* 🌍  Open for contributions  
+* 🧠  Still learning
 
 <a href="https://www.github.com/abdul-yusuf" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdul-yusuf?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
