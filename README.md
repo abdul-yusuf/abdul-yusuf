@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a passionate software developer deeply fascinated by technology and constantly seeking opportunities to learn and grow in the ever-evolving field of software development.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎓 I'm Graduate Computer Engineering, with a solid foundation in programming principles, algorithms, and computer engineering concepts. My academic journey has sparked my enthusiasm for problem-solving and ignited my passion for coding.
+🎓 I'm a Graduate of Computer Engineering, with a solid foundation in programming principles, algorithms, and computer engineering concepts. My academic journey has sparked my enthusiasm for problem-solving and ignited my passion for coding.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [abdul17yusuf@gmail.com](mailto:abdul17yusuf@gmail.com)
